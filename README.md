@@ -1,39 +1,39 @@
-# (Nombre del proyecto)
+# Sonidos Animal Crossing
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : Sonidos Animal Crossing
 
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
+Autor: Adrian Lara Quintero
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto muestra diferentes sonidos del juego Animal Crossing, uno es el sonido que se produce al coger cualquier objeto, y otro es el sonido ambiente del DLC.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: Muestra de sonidos.
 
 Logotipo : (insertar imagen y breve justificación, si tiene)
 
 (insertar imágenes a resolucion de 100px alto)
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: width: 1317px; height: 966px;
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: Microsoft Edge
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 26,4 KB (27.115 bytes)
 
-Fecha : 14/05/2025
+Fecha : 05/21/2025
 
 Medios (donde se tiene presencia relacionada):
 
-Github:
+Github: AdriArt2
 Twitter:
-Instagram:
+Instagram: adri_makeart
 Tiktok:
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En este proyecto aparecen unas cajas de dos opciones, cuando pulsas la primera opción aparece el sonido de coger el objeto, y cuando pulsas la segunda aparece el sonido de ambientación del DLC.
 
 ### 2.2. Esquema de navegación
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
@@ -44,7 +44,7 @@ Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodo
 
 Este proyecto es interesante porque ...
 
-Orientado a .. (Público)
+Orientado a todo tipo de publico, aunque quizás interese más a las personas amantes del juego.
 
 Etapa 2: Desarrollo / actividades realizadas
 
