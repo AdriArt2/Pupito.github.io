@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : Sonidos Animal Crossing
 
-Web: (url github.io)
+Web: https://adriart2.github.io/Pupito.github.io/
 
 Autor: Adrian Lara Quintero
 
@@ -27,7 +27,7 @@ Fecha : 05/21/2025
 Medios (donde se tiene presencia relacionada):
 
 Github: AdriArt2
-Twitter:
+Twitter: Adrii_art_
 Instagram: adri_makeart
 Tiktok:
 
