@@ -39,7 +39,7 @@ En este proyecto aparecen unas cajas de dos opciones, cuando pulsas la primera o
 
 ## 3. Metodología
 
-Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología
 
 Este proyecto es interesante porque gracias a unos llamativos sonidos, invita a personas que no conocen el juego a meterse un poco en su mundo.
 
