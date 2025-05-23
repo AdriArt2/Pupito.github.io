@@ -12,9 +12,7 @@ Resumen : Este proyecto muestra diferentes sonidos del juego Animal Crossing, un
 
 Estilo/género: Muestra de sonidos.
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
-
-(insertar imágenes a resolucion de 100px alto)
+Logotipo : ![logotipo](https://github.com/user-attachments/assets/9abbfb99-66da-4eb7-ade9-3969545b893e)
 
 Resolución: width: 1317px; height: 966px;
 
@@ -24,46 +22,42 @@ Tamaño proyecto: 26,4 KB (27.115 bytes)
 
 Fecha : 05/21/2025
 
-Medios (donde se tiene presencia relacionada):
+Medios : No lo se
 
 Github: AdriArt2
 Twitter: Adrii_art_
 Instagram: adri_makeart
-Tiktok:
+Tiktok: adrii_art_
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
 En este proyecto aparecen unas cajas de dos opciones, cuando pulsas la primera opción aparece el sonido de coger el objeto, y cuando pulsas la segunda aparece el sonido de ambientación del DLC.
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![IMG_2059](https://github.com/user-attachments/assets/a15cc36c-592a-4f46-9fa3-5f214dbc508f)
+
 
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque gracias a unos llamativos sonidos, invita a personas que no conocen el juego a meterse un poco en su mundo.
 
 Orientado a todo tipo de publico, aunque quizás interese más a las personas amantes del juego.
 
 Etapa 2: Desarrollo / actividades realizadas
 
-Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
-Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+Su uso es muy intuitivo, solo hay que seleccionar la canción requerida y darle al botón de play.
+Creo que la barra de volumen no funciona muy bien.
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+Con este proyecto puedo dar juego a crear más tipos de cajas con más sonidos y hacer así que publico variado interactue con el juego.
 ## 5 Referencias
-**Artículos y blogs **
+https://animalcrossing.nintendo.com/es/
 
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+
 Recursos y materiales audiovisuales:
-
+https://youtu.be/aZ3QC8e1_yg
 **Hippani Animator 5.1**
 (imagen de la licencia, copiar y pegar aquí la correcta)
 
